@@ -1,7 +1,7 @@
 # NSS Exercise | Array Methods (Solar System)
 
 ## Description
-We were tasked to manipulate an array () and add the end result to the DOM.
+We were tasked to manipulate an array and add the end result to the DOM.
 
 ## How to Run
 1. Clone repo to your local computer
